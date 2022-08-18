@@ -1,5 +1,6 @@
 # BE-Project
-Designed, Analysed and Fabricated a Single Stage Open Differential. 
+Designed, Analysed and Fabricated a Single Stage Open Differential for my undergraduate final year project.
+Worked in a team of four, to calculate the various forces, selcted bearings, designed the parts, analysed and fabricated the assembly
 
 Softwares used :
 1. SolidWorks
