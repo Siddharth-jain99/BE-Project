@@ -17,7 +17,7 @@ Design of the Differential Assembly done using Solidworks
 ![image](https://user-images.githubusercontent.com/45391284/185497316-d725ba39-2625-4a06-a448-f2fa6405770b.png)
 
 
-Structural Analysis done of the different parts using ANSYS software
+FEA - Static Structural Analysis done of the different parts using ANSYS software
 
 ![image](https://user-images.githubusercontent.com/45391284/185497152-e31f2dfe-840f-4a20-94a5-5555d7b4f67a.png)
 
