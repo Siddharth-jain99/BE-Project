@@ -10,7 +10,7 @@ Led a team of four, to calculate the various forces, selcted bearings, designed 
 ## Images:
 
 
-Design of the Differential Assembly done using Solidworks
+## Design of the Differential Assembly done using Solidworks
 
 ![image](https://user-images.githubusercontent.com/45391284/185497290-397adaa1-7fbb-41c8-b5fe-fe43cc260056.png)
 
